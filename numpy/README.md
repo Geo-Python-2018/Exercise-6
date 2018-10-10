@@ -8,7 +8,7 @@ The answers to the questions in this week's exercise should be given by modifyin
 If you are uncertain about **the style of your code**, take a look at the **[PEP 8 - Style guide for Python code](https://www.python.org/dev/peps/pep-0008/)**.  
 
  - **Exercise 6 is due by 16:00 on 17.10.**
- - Don't forget to check out the [hints for this week's exercise](https://geo-python.github.io/2018/lessons/L6/exercise-6-hints.html) if you're having trouble.
+ - Don't forget to check out the [hints for this week's exercise](https://geo-python.github.io/2018/lessons/L6/exercise-6.html) if you're having trouble.
  - Scores on this exercise are out of 20 points.
  - There are altogether 3 problems that you should solve. The fourth problem is optional for more advanced students (does not affect grading).
 
@@ -34,7 +34,7 @@ You may want to take a look at the [data](data/1091402.txt).
 
 **Note**: Once again temperatures in this dataset are given in degrees Fahrenheit.
 
-Additional information about the data format can be found in the [hints for Exercise 6](https://geo-python.github.io/2018/lessons/L6/exercise-6-hints.html).
+Additional information about the data format can be found in the [hints for Exercise 6](https://geo-python.github.io/2018/lessons/L6/exercise-6.html).
 
 ## Problems
 
